@@ -1,4 +1,4 @@
 a=int(input())
 b=int(input())
-amogus=666
+amogus=6
 print(b)
